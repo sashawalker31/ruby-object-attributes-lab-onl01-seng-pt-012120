@@ -1,6 +1,6 @@
 class Person
   def person=(person_name)
-    @name = name 
+    @name = person_name
   end 
   
   def person 
@@ -14,6 +14,6 @@ class Person=(person_job)
   end 
   
   def person_job
-    @job = job 
+    @job = person_job
   end 
 end
