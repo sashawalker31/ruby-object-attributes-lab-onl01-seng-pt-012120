@@ -8,8 +8,8 @@ class Person
   end 
 end 
 
-class Person=(persons_job)
-  def persons_job
+class Person=(job)
+  def job
     @job 
   end 
   
